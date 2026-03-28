@@ -14,7 +14,7 @@ export function Hero() {
                         Digital Experiences
                     </h1>
                     <p className="max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                        I'm a Full Stack Developer specializing in building (and occasionally designing) simple, beautiful, and intuitive interfaces.
+                        I&apos;m a Full Stack Developer specializing in building (and occasionally designing) simple, beautiful, and intuitive interfaces.
                     </p>
                 </div>
 

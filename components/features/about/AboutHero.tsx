@@ -1,7 +1,7 @@
 
 import { Section } from "@/components/common/Section";
 import { Button } from "@/components/ui/button";
-import { ArrowRight, Download, Mail } from "lucide-react";
+import { Download, Mail } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -14,7 +14,7 @@ export function AboutHero() {
                         About Me
                     </h1>
                     <p className="max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                        I'm a passionate developer driven by the challenge of creating efficient, scalable, and user-friendly web applications.
+                        I&apos;m a passionate developer driven by the challenge of creating efficient, scalable, and user-friendly web applications.
                     </p>
                 </div>
 
